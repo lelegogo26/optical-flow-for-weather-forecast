@@ -1,0 +1,17 @@
+﻿生成启动时间为 2018/9/21 17:21:02。
+     1>项目“E:\OpenCV\workplace\OpticalFlowFarneback\OpticalFlowFarneback\OpticalFlowFarneback.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\OpticalFlowFarneback.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\OpenCV\workplace\OpticalFlowFarneback\Debug\OpticalFlowFarneback.exe" /INCREMENTAL /NOLOGO /LIBPATH:"d:\Program Files (x86)\Visual Leak Detector\lib\Win32" opencv_calib3d249.lib opencv_contrib249.lib opencv_core249.lib opencv_features2d249.lib opencv_flann249.lib opencv_gpu249.lib opencv_highgui249.lib opencv_imgproc249.lib opencv_legacy249.lib opencv_ml249.lib opencv_nonfree249.lib opencv_objdetect249.lib opencv_ocl249.lib opencv_photo249.lib opencv_stitching249.lib opencv_superres249.lib opencv_ts249.lib opencv_video249.lib opencv_videostab249.lib opencv_calib3d249d.lib opencv_contrib249d.lib opencv_core249d.lib opencv_features2d249d.lib opencv_flann249d.lib opencv_gpu249d.lib opencv_highgui249d.lib opencv_imgproc249d.lib opencv_legacy249d.lib opencv_ml249d.lib opencv_nonfree249d.lib opencv_objdetect249d.lib opencv_ocl249d.lib opencv_photo249d.lib opencv_stitching249d.lib opencv_superres249d.lib opencv_ts249d.lib opencv_video249d.lib opencv_videostab249d.lib opencv_calib3d249.lib opencv_contrib249.lib opencv_core249.lib opencv_features2d249.lib opencv_flann249.lib opencv_gpu249.lib opencv_highgui249.lib opencv_imgproc249.lib opencv_legacy249.lib opencv_ml249.lib opencv_nonfree249.lib opencv_objdetect249.lib opencv_ocl249.lib opencv_photo249.lib opencv_stitching249.lib opencv_superres249.lib opencv_ts249.lib opencv_video249.lib opencv_videostab249.lib opencv_calib3d249d.lib opencv_contrib249d.lib opencv_core249d.lib opencv_features2d249d.lib opencv_flann249d.lib opencv_gpu249d.lib opencv_highgui249d.lib opencv_imgproc249d.lib opencv_legacy249d.lib opencv_ml249d.lib opencv_nonfree249d.lib opencv_objdetect249d.lib opencv_ocl249d.lib opencv_photo249d.lib opencv_stitching249d.lib opencv_superres249d.lib opencv_ts249d.lib opencv_video249d.lib opencv_videostab249d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\OpticalFlowFarneback.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\OpenCV\workplace\OpticalFlowFarneback\Debug\OpticalFlowFarneback.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\OpenCV\workplace\OpticalFlowFarneback\Debug\OpticalFlowFarneback.lib" /MACHINE:X86 Debug\OpticalFlowFarneback.exe.embed.manifest.res
+         Debug\t_main.obj
+     1>LINK : fatal error LNK1104: 无法打开文件“opencv/highgui249d.lib”
+     1>已完成生成项目“E:\OpenCV\workplace\OpticalFlowFarneback\OpticalFlowFarneback\OpticalFlowFarneback.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.15
