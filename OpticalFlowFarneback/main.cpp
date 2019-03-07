@@ -517,8 +517,8 @@ void main()
 {
 	long start_time = GetTickCount();
 	// 读入图片  						   E:\OpenCV\workplace\OpticalFlowFarneback
- 	Mat ImgPre = imread("E:\\OpenCV\\workplace\\OpticalFlowFarneback\\20170909_151010.00.010.000_R3.png", CV_8U);	 // 直接读入是三通道
- 	Mat ImgCur = imread("E:\\OpenCV\\workplace\\OpticalFlowFarneback\\20170909_151616.00.010.000_R3.png", CV_8U);
+ 	Mat ImgPre = imread("E:\\OpenCV\\workplace\\OpticalFlowFarneback\\Pre.png", CV_8U);	 // 直接读入是三通道
+ 	Mat ImgCur = imread("E:\\OpenCV\\workplace\\OpticalFlowFarneback\\Cur.png", CV_8U);
 
 	ImgPre.convertTo(ImgPre,CV_32F);
 	ImgCur.convertTo(ImgCur,CV_32F);	

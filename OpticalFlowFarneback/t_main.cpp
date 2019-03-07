@@ -16,8 +16,8 @@ using namespace std;
 void main()
 {
 	// ∂¡»ÎÕº∆¨  
- 	Mat ImgPre = imread("E:\\OpenCV\\workplace\\TestOpenCV\\20170909_151010.00.010.000_R3.png");
- 	Mat ImgCur = imread("E:\\OpenCV\\workplace\\TestOpenCV\\20170909_151616.00.010.000_R3.png");
+ 	Mat ImgPre = imread("E:\\OpenCV\\workplace\\TestOpenCV\\Pre.png");
+ 	Mat ImgCur = imread("E:\\OpenCV\\workplace\\TestOpenCV\\Cur.png");
 
 // 	imshow("PRE", ImgPre);
 // 	imshow("Cur", ImgCur);
